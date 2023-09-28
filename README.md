@@ -1,3 +1,4 @@
 # 270923
- Ejercicio clase
+Ejercicio clase
+de como usar GitHub
 cambios
